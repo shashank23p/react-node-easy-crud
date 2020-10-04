@@ -1,6 +1,6 @@
 {
   "name": "react-node-easy-crud",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "create crud table in react which can work flowlessly with node-easy-crud",
   "main": "./build/EasyCrudTable.js",
   "scripts": {
@@ -22,5 +22,22 @@
     "babel-loader": "^8.0.6",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shashank23p/react-node-easy-crud"
+  },
+  "keywords": [
+    "react",
+    "mongo",
+    "mern",
+    "crud",
+    "react-node-easy-crud",
+    "node-easy-crud",
+    "crud",
+    "node",
+    "express",
+    "mongoose",
+    "mongoose-crud"
+  ]
 }
