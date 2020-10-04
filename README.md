@@ -40,18 +40,18 @@ you can also pass custom headers using headers props
 ## SnapShots
 Table with read data
 
-<img src="https://github.com/shashank23p/react-node-easy-crud/blob/master/snaps/table.png" alt="Read Data Table" width="600"/>
+<img src="https://github.com/shashank23p/react-node-easy-crud/blob/master/snaps/table.png?raw=true" alt="Read Data Table" width="600"/>
 
 Edit Form
 
-<img src="https://github.com/shashank23p/react-node-easy-crud/blob/master/snaps/edit.png" alt="Edit form" width="500"/>
+<img src="https://github.com/shashank23p/react-node-easy-crud/blob/master/snaps/edit.png?raw=true" alt="Edit form" width="500"/>
 
 
 Add Form
 
-<img src="https://github.com/shashank23p/react-node-easy-crud/blob/master/snaps/add.png" alt="Add form" width="500"/>
+<img src="https://github.com/shashank23p/react-node-easy-crud/blob/master/snaps/add.png?raw=true" alt="Add form" width="500"/>
 
 
 Delete Confirmation
 
-<img src="https://github.com/shashank23p/react-node-easy-crud/blob/master/snaps/delete.png" alt="Delete model" width="500"/>
+<img src="https://github.com/shashank23p/react-node-easy-crud/blob/master/snaps/delete.png?raw=true" alt="Delete model" width="500"/>
