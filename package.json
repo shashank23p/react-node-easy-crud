@@ -1,0 +1,26 @@
+{
+  "name": "react-easy-crud",
+  "version": "1.0.0",
+  "description": "create crud table in react which can work flowlessly with node-easy-crud",
+  "main": "./build/EasyCrudTable.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "Shashank Padwal",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "material-table": "^1.62.0"
+  },
+  "devDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6",
+    "@babel/preset-react": "^7.7.4",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
