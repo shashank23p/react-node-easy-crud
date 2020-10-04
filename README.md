@@ -5,6 +5,14 @@ you should use [node-easy-crud](https://www.npmjs.com/package/node-easy-crud) on
 ## Installation
 `npm install react-node-easy-crud`
 
+add icons css to index.html of react project
+```html
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/icon?family=Material+Icons"
+/>
+```
+
 ## Simple usage
 
 ```jsx
