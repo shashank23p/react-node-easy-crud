@@ -1,4 +1,4 @@
-# react-easy-crud
+# react-node-easy-crud
 react componets library to use with node-easy-crud to create easy curd application in MERN stack.
 you should use [node-easy-crud](https://www.npmjs.com/package/node-easy-crud) on your backend to use this componets.
 
